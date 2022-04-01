@@ -7,9 +7,9 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 ## Contributors
 
-- @YinJiann - 
-- @Zhiyang123 - 
-- @lawminghan - 
+- @YinJiann - Data Preparation, Data Cleaning, Exploratory Data Analysis, Machine Learning
+- @Zhiyang123 - Data Preparation, Data Cleaning, Exploratory Data Analysis, Machine Learning
+- @lawminghan - Data Preparation, Data Cleaning, Exploratory Data Analysis, Machine Learning
 
 ## Problem Definition 
 
