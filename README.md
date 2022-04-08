@@ -2,7 +2,7 @@
 ## About 
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on audio features of songs from [Spotify API](https://developer.spotify.com/documentation/web-api/reference/#/operations/get-several-audio-features). For detailed walkthrough, please view the source code and presentation video in order from:
 
-1. [Presentation Video](https://youtu.be/Frs0WeMEVtY) 
+1. [Presentation Video](https://youtu.be/Vm1N-W07dp8) 
 2. [Data Extraction and Cleaning](https://github.com/Zhiyang123/SC1015_Hit_Song_Predictor/blob/main/Audio_Features.ipynb)
 3. [Data Visualisation, Exploratory Data Analysis, Machine Learning](https://github.com/Zhiyang123/SC1015_Hit_Song_Predictor/blob/main/SC1015_Group1_DSAI_Project%20.ipynb)
 
