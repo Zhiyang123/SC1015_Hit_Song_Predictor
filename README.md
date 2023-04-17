@@ -37,7 +37,6 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 - Other packages such as Spotipy, sklearn.metrics (roc_auc_score)
 - Collaborating using GitHub
 
-what is going on
 ## References
 
 - <https://developer.spotify.com/documentation/web-api/reference/#/operations/get-several-audio-features>
